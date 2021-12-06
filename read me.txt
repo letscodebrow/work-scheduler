@@ -1,0 +1,1 @@
+This is a daily planner where i can add important events; I can also modify it and save changes.
